@@ -7,10 +7,3 @@ Les données utilisées dans ce projet proviennent de la ville de Chicago et son
 
 ## Objectif
 L'objectif principal de ce projet est de démontrer comment utiliser PySpark pour effectuer des opérations courantes d'analyse et de manipulation des données, telles que le filtrage, le regroupement, l'agrégation, etc. Nous utiliserons les données de la ville de Chicago comme exemple pour illustrer ces techniques.
-
-## Contenu du Projet
-Notebook PySpark: Un notebook Jupyter contenant le code Python utilisé pour l'analyse et la manipulation des données.
-Script de Traitement: Un script Python autonome qui peut être utilisé pour traiter les données en vrac à l'aide de PySpark.
-Rapport: Un rapport détaillant les étapes suivies, les observations faites et les conclusions tirées de l'analyse des données.
-## Exécution du Code
-Pour exécuter le code, assurez-vous d'avoir installé PySpark sur votre machine. Vous pouvez ensuite exécuter le notebook ou le script de traitement pour voir les résultats de l'analyse. Le tout dans COLAB
